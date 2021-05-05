@@ -1,4 +1,4 @@
-package ru.fintech.qa.homework.utils;
+package ru.tinkoff.hibernate.test;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
